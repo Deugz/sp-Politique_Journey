@@ -59,28 +59,23 @@ html_static_path = ['_static']
 html_theme_options = {
     "external_links": [
         {
-            "url": "https://deugz.github.io/nb-sbfp/_build/html/intro.html",
-            "name": "&nbsp &nbsp &nbsp &nbsp 💫 Science",
+            "url": "https://deugz.github.io/jb-SDG/_build/html/intro.html",
+            "name": "&nbsp &nbsp &nbsp &nbsp 🌍 Développement Durable",
             "attributes": {"target": "_blank"},
         },
         {
-            "url": "https://deugz.github.io/nb-notes/_build/html/intro.html",
-            "name": "&nbsp &nbsp &nbsp 🧠 Education",
+            "url": "https://deugz.github.io/SP-ZAP/build/html/index.html",
+            "name": "&nbsp &nbsp &nbsp &nbsp 🧡 La ZAP",
             "attributes": {"target": "_blank"},
         },
         {
-            "url": "https://deugz.github.io/nb-publi/_build/html/intro.html",
-            "name": "&nbsp &nbsp &nbsp 🎤 Music ",
+            "url": "https://deugz.github.io/nb-journalisme/_build/html/intro.html",
+            "name": "&nbsp &nbsp &nbsp &nbsp 📰 L'information",
             "attributes": {"target": "_blank"},
         },
         {
-            "url": "https://deugz.github.io/nb-teaching/_build/html/intro.html",
-            "name": "&nbsp &nbsp &nbsp 💊 Pharmacie",
-            "attributes": {"target": "_blank"},
-        },
-        {
-            "url": "https://deugz.github.io/nb-blog/_build/html/intro.html",
-            "name": "&nbsp &nbsp &nbsp ✊ Politique",
+            "url": "https://deugz.github.io/nb-politique/_build/html/intro.html",
+            "name": "&nbsp &nbsp &nbsp ✊ La Politique",
             "attributes": {"target": "_blank"},
         },
     ],
@@ -115,7 +110,7 @@ html_theme_options = {
     
 
     "logo": {
-        "text": " &nbsp V. Deguin &nbsp ",
+        "text": " &nbsp La Société &nbsp ",
         "image_dark": "_static/Logo/logo_SFTP.png",
         "alt_text": " &nbsp V. Deguin &nbsp &nbsp",
     },

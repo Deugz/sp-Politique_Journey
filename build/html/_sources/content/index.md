@@ -16,11 +16,10 @@ Introduction/Roadmap
 :hidden:
 
 Sections/Panorama
-Sections/Science
-Sections/Education
-Sections/Music
-Sections/Pharma
-Sections/Societe
+Sections/Dvpt-Durable
+Sections/ZAP
+Sections/Information
+Sections/Politique
 
 
 ```
